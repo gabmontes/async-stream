@@ -1,0 +1,20 @@
+{
+  "name": "async-stream",
+  "version": "0.1.0",
+  "description": "Give streams support for asyncronous processing.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabmontes/async-stream.git"
+  },
+  "keywords": [
+    "stream",
+    "asynchronous"
+  ],
+  "author": "gabmontes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabmontes/async-stream/issues"
+  },
+  "homepage": "https://github.com/gabmontes/async-stream"
+}
